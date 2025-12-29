@@ -42,7 +42,7 @@ Welcome to the Terraform repository! This repository contains infrastructure as 
    [PlDa]: <./Chapter1-Understand the basics of Terraform/>
    [PlDb]: <./Chapter2- Deploy Infrastructure with Terreform/>   
    [PlDc]: <./Chapter3- Terraform Provisioners/>
-   [PlDd]: <./Chapter4- Terraform Modules & Workspaces.md/>
+   [PlDd]: <./Chapter4- Terraform Modules & Workspaces/>
    [PlDe]: <./Chapter5- Remote State Management/>   
    [PlDf]: <./Chapter6- Terraform Provider Versioning/>
    [PlDg]: <./Chapter7- Security Primer/>

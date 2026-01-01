@@ -41,6 +41,7 @@ The terraform language **does not support user-defined functions**, and so only 
 ## Challenge -Analyzing code containning Functions
 As part of this challenge , you will be given a code that conatins multiple sets of Terraform Functions.
 You have to analyze what this code does without running the "apply" operation.
+
 1- Analyze what exactly the given code in Github will do without running the "Apply operation".
 2- Analyze the outcome by applying functions using Terrafrom Console and reading the documentaion.
 3- Make a note of ehat exactly fucntion doing.

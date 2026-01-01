@@ -14,7 +14,7 @@ locals {
 
 resource "aws_security_group" "sg_01" {
   name = "app_firewall"
-  tags = local.default
+  tags = var.tags
 }
 
 resource "aws_security_group" "sg_02" {

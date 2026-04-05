@@ -28,4 +28,5 @@ You need to decide the region in which Terraform would create the resource.
 - Memory
 - Storage
 - Operating System
+
 While creating VM through Terraform, you will need to define these.

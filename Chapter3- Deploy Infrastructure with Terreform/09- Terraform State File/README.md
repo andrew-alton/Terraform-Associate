@@ -1,28 +1,26 @@
 # Terraform State File
 
-Terraform stores the state of the infrastructure that is being created from the TF files.
-This state allows terraform to map real world resource to your existing configuration.
+## Simple Analogy
 
-![MY Image](images/image1.png)
+The demo application provides a frontend interface for users and stores all the
+data in a backend database.
 
-![MY Image](images/image2.png)
+<div align="center">
+<img src="images/image1.png" alt="IAM Policies" width="80%">
+</div>
 
-![MY Image](images/image3.png)
+## Terraform State File
 
-# Desired & Current State
+Terraform stores information about managed infrastructure in a state file.
+This state file keeps track of resources created by your configuration.
 
-## Desired State
+<div align="center">
+<img src="images/image2.png" alt="IAM Policies" width="80%">
+</div>
 
-Terraform's primary function is to create, modify, and destroy infrastructure resources to
-match the desired state described in a Terraform configuration
+## Point to Note
 
-![MY Image](images/image4.png)
-
-## Current State
-Current state is the actual state of a resource that is currently deployed.
-
-![MY Image](images/image5.png)
-
-Terraform tries to ensure that the deployed infrastructure is based on the desired state.
-If there is a difference between the two, terraform plan presents a description of the
-changes necessary to achieve the desired state.
+1. By default, the state information is stored in file named terraform.tfstate
+2. Format of state file is JSON
+3. Never modify the Terraform State file manually. Any mistake can cause
+corruption of state file.

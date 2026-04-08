@@ -7,7 +7,6 @@ It can happen that the infrastructure gets modified manually.
 
 ![MY Image](images/image1.png)
 
-
 The terraform refresh command will check the latest state of your infrastructure
 and update the state file accordingly.
 

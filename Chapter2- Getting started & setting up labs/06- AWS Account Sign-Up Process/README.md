@@ -18,7 +18,7 @@ Creating a new AWS account is a simple and straightforward process.
 <img src="images/image2.png" alt="IAM Policies" width="50%">
 </div>
 
-###
+### Security Verification
 
 <div align="center">
 <img src="images/image3.png" alt="IAM Policies" width="50%">

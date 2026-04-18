@@ -70,3 +70,7 @@ certification can connect, discuss, and seek technical support.
 ### Discord URL
 
 <https://discord.gg/CVHRYaHm>
+
+### Yutube Channel
+
+<https://www.youtube.com/@TiesToCloud>

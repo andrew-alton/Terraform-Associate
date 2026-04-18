@@ -62,6 +62,24 @@ of the official exam blueprint.
 This course follows practical based approach.
 The course will be lengthy but worth it.
 
+Terraform supports hundreds of platforms like AWS, Azure, GCP, etc.
+
+<div align="center">
+<img src="images/image3.png" alt="IAM Policies" width="50%">
+</div>
+
+To learn Terraform concepts, we have to choose 1 platform for our testing.
+For this course, we have chosen AWS.
+
+Aim of this course is to learn Core Concepts of Terraform and not AWS.
+We use very basic AWS services like Virtual Machine, AWS users to
+demonstrate and Learn the Core Terraform concepts.
+
+The Terraform structure and concepts remain SAME irrespective of platform.
+We have hundreds of students from diverse platform backgrounds, such as
+Azure and GCP, who have completed this course and are actively implementing
+Terraform across platforms.
+
 ## Our Community (Optional)
 
 We also have a Discord community where individuals preparing for the same

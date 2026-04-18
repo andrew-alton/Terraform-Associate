@@ -54,3 +54,19 @@ in a step by step manner.
 ### Terraform Associate (004) details
 
 <https://developer.hashicorp.com/certifications/infrastructure-automation>
+
+## About the Course and Important Resources
+
+This is a certification specific course and we cover all the pointers that are part
+of the official exam blueprint.
+This course follows practical based approach.
+The course will be lengthy but worth it.
+
+## Our Community (Optional)
+
+We also have a Discord community where individuals preparing for the same
+certification can connect, discuss, and seek technical support.
+
+### Discord URL
+
+<https://discord.gg/CVHRYaHm>

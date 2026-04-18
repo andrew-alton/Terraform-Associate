@@ -29,3 +29,28 @@ We launched the first Terraform Professional certification course in the world.
 ### Hashicorp certification
 
 <https://www.hashicorp.com/en/certification>
+
+# Exploring Exam BluePrint
+
+## Understanding the Basics
+
+This is a certification specific course and we cover all the pointers that are part
+of the official exam blueprint.
+
+| Item                  | Details |
+|-----------------------|---------|
+| Assessment Type        | Lab-based and multiple choice |
+| Format                | Online proctored |
+| Duration              | 4 hours; 15‑min break included |
+| Price                 | $295 USD, plus locally applicable taxes and fees. Includes free retake. |
+| Language              | English |
+| Credential Expiration | 2 years |
+| Keyboard              | US QWERTY only (contact <certifications@hashicorp.com> for other languages or layouts) |
+
+The arrangement of topics in this course is a little different from the exam
+blueprint to ensure this course remains beginner friendly and topics are covered
+in a step by step manner.
+
+### Terraform Associate (004) details
+
+<https://developer.hashicorp.com/certifications/infrastructure-automation>

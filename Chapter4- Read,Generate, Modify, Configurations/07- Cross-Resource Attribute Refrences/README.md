@@ -59,3 +59,9 @@ curly braces with its calculated value.
 
 <img src="images/image7.png"  width="75%">
 </div>
+
+## Documentation Referred
+
+<https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/eip>
+
+<https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance>

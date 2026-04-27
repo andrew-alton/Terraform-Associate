@@ -25,8 +25,12 @@ configuration
 
 ## Benefits of Variables
 
+<div align="center">
+<img src="images/image5.png"  width="75%">
+</div>
+
 - Update important values in one central place instead of searching and
   replacing them throughout your code, saving time and potential mistakes.
-  
+
 - No need to touch the core Terraform configuration file. This can avoid
   human mistakes while editing.

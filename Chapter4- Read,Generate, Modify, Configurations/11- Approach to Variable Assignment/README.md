@@ -8,7 +8,6 @@ associated with it.
 If you have not defined a value for a variable, Terraform will ask you to input the
 value in CLI Prompt when you run terraform plan / apply operation.
 
-
 ![MY Image](images/image2.png)
 
 ## Declaring Variable Values
@@ -39,9 +38,33 @@ Variable Values can be defined in *.tfvars file.
 To specify individual variables on the command line, use the -var option when
 running the terraform plan and terraform apply commands.
 
+<div align="center">
+<img src="images/image6.png" alt="IAM Policies" width="75%">
+</div>
+
 ### Setting Variable through Environment Variables
 
 Terraform searches the environment of its own process for environment
 variables named *TF_VAR_* followed by the name of a declared variable.
 
 ![MY Image](images/image5.png)
+
+### Environment Variables in Windows
+
+Open the System Properties using following command:
+
+```sh
+sysdm.cpl
+```
+
+in opend windows, navigate to advanced tab and then select Envirment Varibales
+
+<div align="center">
+<img src="images/image7.png" alt="IAM Policies" width="75%">
+</div>
+
+click on New on user varibale and add your varible , for example;
+
+<div align="center">
+<img src="images/image8.png" alt="IAM Policies" width="75%">
+</div>

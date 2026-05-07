@@ -5,13 +5,13 @@
 We will create a Firewall (Security Group) in AWS with following configuration
 
 <div align="center">
-<img src="images/image1.png" alt="IAM Policies" width="75%">
+<img src="images/image1.png"  width="75%">
 </div>
 
 ## Reference - Final Code in Video
 
 <div align="center">
-<img src="images/image2.png" alt="IAM Policies" width="75%">
+<img src="images/image2.png" width="75%">
 </div>
 
 ## Documentation Referred

@@ -1,32 +1,49 @@
-# Understanding the challenge
+
+# Loca values
+
+## Understanding the challenge
+
 Various resources in your project can have common values like tags.
+
 Repeating these values across multiple resources blocks increase the code length and makes it difficult to mange in larger projects.
 
 ![My Image](images/image1.png)
+
+## Solution using Variables
 
 one solutions is to centralize these common values using Variables.
 
 ![My Image](images/image2.png)
 
+## Introducing Local Values
+
 Local values are similar to Variables in a sense that it allows you to store data centrally and that can be references in ,multiple parts of configuration.
 
 ![My Image](images/image3.png)
 
-## additional Benefit of locals 
+## additional Benefit of locals
+
 You can add expression to locals, which allows you to compute values dynamically and use functions with locals.
 
 ![My Image](images/image4.png)
 
-## Importance Points to Note
+## Locals vs Variables
+
 Variable value can be defined in wide variety of place like terraform.tfvars, ENV Variables, CLI and so on.
+
 Locals are more of private resources. You have to directly modify the code.
+
 locals are used when you want to avoid repeating the same expression multiple times.
+
+## Importance Points to Note
+
 local values are often referred to as just "locals".
+
 local values are create by locals block (plural), but you reference them as attribute on an object names local(singular)
 
-### Documentation Referred:
+### Documentation Referred
 
-https://developer.hashicorp.com/terraform/language/functions/formatdate
+<https://developer.hashicorp.com/terraform/language/functions/formatdate>
 
 ### Base Code of local-values.tf
 

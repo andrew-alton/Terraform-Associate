@@ -7,25 +7,33 @@ Various resources in your project can have common values like tags.
 
 Repeating these values across multiple resources blocks increase the code length and makes it difficult to mange in larger projects.
 
-![My Image](images/image1.png)
+<div align="center">
+<img src="images/image1.png"  width="75%">
+</div>
 
 ## Solution using Variables
 
 one solutions is to centralize these common values using Variables.
 
-![My Image](images/image2.png)
+<div align="center">
+<img src="images/image2.png"  width="75%">
+</div>
 
 ## Introducing Local Values
 
 Local values are similar to Variables in a sense that it allows you to store data centrally and that can be references in ,multiple parts of configuration.
 
-![My Image](images/image3.png)
+<div align="center">
+<img src="images/image3.png"  width="75%">
+</div>
 
 ## additional Benefit of locals
 
 You can add expression to locals, which allows you to compute values dynamically and use functions with locals.
 
-![My Image](images/image4.png)
+<div align="center">
+<img src="images/image4.png"  width="75%">
+</div>
 
 ## Locals vs Variables
 

@@ -2,25 +2,33 @@
 
 A function is a block of code that performs a specific task.
 
-![MY Image](images/image1.png)
+<div align="center">
+<img src="images/image1.png"  width="75%">
+</div>
 
 ## Function 1 - MAX
 
 max() take one or more numbers and return the greatest number.
 
-![MY Image](images/image2.png)
+<div align="center">
+<img src="images/image2.png"  width="75%">
+</div>
 
 ## Function 2 - FILE
 
 file () reads the contents of a file at the given path and return them as a string.
 
-![MY Image](images/image3.png)
+<div align="center">
+<img src="images/image3.png"  width="75%">
+</div>
 
 ## Introducing Terraform Console
 
 Terraform Console provides an interactive environment specifically designed to test functions and experiment with expressions before integrating them into your main code.
 
-![MY Image](images/image4.png)
+<div align="center">
+<img src="images/image4.png"  width="75%">
+</div>
 
 ## Importance of File Function
 
@@ -29,7 +37,9 @@ File functions can reduce the overall Terraform code size by loading contents fr
 Terraform has wide variety of functions available to achieve different set od use-cases.
 Functions are grouped into categories. Some of these include;
 
-![MY Image](images/image5.png)
+<div align="center">
+<img src="images/image5.png"  width="75%">
+</div>
 
 | Function Categories| Function Available                        |
 |--------------------|-------------------------------------------|

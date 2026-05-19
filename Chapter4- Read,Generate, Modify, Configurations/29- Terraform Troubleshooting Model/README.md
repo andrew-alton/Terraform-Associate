@@ -47,30 +47,3 @@ Use the Provider GitHub page for reporting and identifying the issue.
 <div align="center">
 <img src="images/image5.png"  width="75%">
 </div>
-
-## Review Reporting Bugs
-
-You can report bugs in the terraform Core GitHub page or appropriate provider page.
-First, navigate to the Terraform GitHub repository and choose "Issues" from the top tabs.
-
-<div align="center">
-<img src="images/image6.png"  width="75%">
-</div>
-
-Choose "New Issue".
-
-<div align="center">
-<img src="images/image7.png"  width="75%">
-</div>
-
-Click "Get Started"
-
-<div align="center">
-<img src="images/image8.png"  width="75%">
-</div>
-
-Fill Core Terraform Template
-
-<div align="center">
-<img src="images/image9.png"  width="75%">
-</div>

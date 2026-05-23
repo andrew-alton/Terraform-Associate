@@ -6,9 +6,7 @@
   <img src="images/image1.png"  width="75%">
   </div>
 
-## This snippet is from the Splat Expression Video
-
-### splat.tf
+### splat.tf sample file
 
 ```sh
 

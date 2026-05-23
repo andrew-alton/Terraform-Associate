@@ -9,6 +9,8 @@ There are some limits that apply to all of the services.
   <img src="images/image1.png"  width="75%">
   </div>
 
+## Less Known Limit - API Limit in AWS
+
 When you’re architecting for the cloud, you need to keep API throttling in mind,
 particularly the types of calls and the frequency with which they are called.
 

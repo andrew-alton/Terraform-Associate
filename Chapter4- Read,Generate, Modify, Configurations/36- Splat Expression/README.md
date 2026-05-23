@@ -1,9 +1,12 @@
 # Overview of Splat Expression
- Splat Expression allows us to get a list of all the attributes.
- 
- ![MY Image](images/terraform-splat-1.png)
 
- ## This snippet is from the Splat Expression Video.
+ Splat Expression allows us to get a list of all the attributes.
+
+  <div align="center">
+  <img src="images/image1.png"  width="75%">
+  </div>
+
+## This snippet is from the Splat Expression Video
 
 ### splat.tf
 

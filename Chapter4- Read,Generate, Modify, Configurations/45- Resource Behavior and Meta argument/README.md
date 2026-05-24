@@ -37,5 +37,10 @@ per-resource basis.
 
 ## Different Meta-Arguments
 
-
-![My Image](images/meta-4.png)
+| Meta-Argument | Description                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| depends_on    | Handle hidden resource or module dependencies that Terraform cannot automatically infer. |
+| count         | Accepts a whole number, and creates that many instances of the resource.    |
+| for_each      | Accepts a map or a set of strings, and creates an instance for each item in that map or set. |
+| lifecycle     | Allows modification of the resource lifecycle.                              |
+| provider      | Specifies which provider configuration to use for a resource, overriding Terraform’s default behavior of selecting one based on the resource type name. |

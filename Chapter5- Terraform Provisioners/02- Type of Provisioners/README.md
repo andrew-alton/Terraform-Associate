@@ -2,6 +2,7 @@
 
 Provisioners are used to execute scripts on a local or remote machine as part
 of resource creation or destruction.
+
 There are 2 major types of provisioners available
 
 ![MY Image](images/image1.png)
@@ -10,6 +11,7 @@ There are 2 major types of provisioners available
 
 The local-exec provisioner invokes a local executable after a resource is
 created.
+
 Example: After EC2 is launched, fetch the IP and store it in file server_ip.txt
 
 ![MY Image](images/image2.png)
@@ -19,6 +21,7 @@ Example: After EC2 is launched, fetch the IP and store it in file server_ip.txt
 
 remote-exec provisioners allow to invoke scripts or run commands directly on
 the remote server.
+
 Example: After EC2 is launched, install “apache” software
 
 

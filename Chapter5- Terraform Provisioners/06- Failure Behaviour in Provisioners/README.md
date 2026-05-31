@@ -12,7 +12,10 @@ This will lead to resource being tainted and we have to re-create the resource.
 
 The on_failure setting can be used to change the default behaviour.
 
-![MY Image](images/image2.png)
+| Allowed Values | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| continue       | Ignore the error and continue with creation or destruction.                |
+| fail           | Raise an error and stop applying (default behavior). If this is a creation provisioner, taint the resource. |
 
 ## Reference Code - On-Failure
 

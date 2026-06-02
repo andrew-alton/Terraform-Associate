@@ -30,6 +30,8 @@ central location that all can use.
 ![MY Image](images/image3.png)
 
 ## Introducing Terraform Modules
+Terraform Modules allows us to centralize the resource configuration and it
+makes it easier for multiple projects to re-use the Terraform code for projects.
 
 ![MY Image](images/image4.png)
 

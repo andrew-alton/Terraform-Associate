@@ -25,8 +25,6 @@ values.
 Ensure to include output values in the module code for better flexibility and
 integration with other resources and projects.
 
-Format: "module.<MODULE NAME>.<OUTPUT NAME>"
-
 <div align="center">
 <img src="images/image3.png" alt="IAM Policies" width="75%">
 </div>

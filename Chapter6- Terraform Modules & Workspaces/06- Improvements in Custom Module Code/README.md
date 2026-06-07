@@ -3,7 +3,9 @@
 We had created a very simple module that allows developers to launch an EC2
 instance when calling the module.
 
-![MY Image](images/image1.png)
+<div align="center">
+<img src="images/image1.png" alt="IAM Policies" width="75%">
+</div>
 
 ## Need to Analyze Shortcomings
 
@@ -12,7 +14,9 @@ improvements.
 In today’s video, we will be discussing about some of the important
 shortcomings with the code.
 
-![MY Image](images/image2.png)
+<div align="center">
+<img src="images/image2.png" alt="IAM Policies" width="75%">
+</div>
 
 ## Challenge 1 - Hardcoded Values
 
@@ -20,7 +24,9 @@ The values are hardcoded as part of the module.
 If developer is calling the module, he will have to stick with same values.
 Developer will not be able to override the hardcoded values of the module.
 
-![MY Image](images/image3.png)
+<div align="center">
+<img src="images/image3.png" alt="IAM Policies" width="75%">
+</div>
 
 ## Challenge 2 - Provider Improvements
 
@@ -29,15 +35,15 @@ Avoid hard-coding region in the Module code as much as possible.
 A required_provider block with version constraints for module to work is
 important.
 
-![MY Image](images/image4.png)
+<div align="center">
+<img src="images/image4.png" alt="IAM Policies" width="75%">
+</div>
 
 Documentation Referenced:
 
 <https://developer.hashicorp.com/terraform/language/providers/requirements>
 
 <https://registry.terraform.io/providers/hashicorp/aws/latest/docs>
-
-Final Main Module Code:
 
 ## Root Module
 

@@ -12,7 +12,6 @@ and manage EC2 instances.
 
 ![MY Image](images/image2.png)
 
-
 ## Challenge with the Previous Example
 
 - Repetition of Code.
@@ -30,6 +29,7 @@ central location that all can use.
 ![MY Image](images/image3.png)
 
 ## Introducing Terraform Modules
+
 Terraform Modules allows us to centralize the resource configuration and it
 makes it easier for multiple projects to re-use the Terraform code for projects.
 

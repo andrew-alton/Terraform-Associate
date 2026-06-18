@@ -1,3 +1,5 @@
+# Terraform and .gitignore
+
 ## Revising A Point Discussed in Earlier Video
 
 While it’s good practice to commit your Terraform code files to Git, you shouldn’t

@@ -62,3 +62,9 @@ locking functionality.
 <div align="center">
 <img src="images/image6.png"  width="75%">
 </div>
+
+## Documentation Referenced
+
+<https://developer.hashicorp.com/terraform/language/backend>
+
+<https://developer.hashicorp.com/terraform/language/backend/local>

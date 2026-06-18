@@ -4,7 +4,9 @@ Running "terraform apply" simultaneously by multiple team members on same
 project can cause Terraform to make concurrent changes to the state file. This
 can result in state file corruption and inconsistencies.
 
-![MY Image](images/image1.png)
+<div align="center">
+<img src="images/image1.png"  width="75%">
+</div>
 
 ## Introducing State Locking
 
@@ -12,7 +14,9 @@ State locking is a mechanism that prevents multiple operations from making
 concurrent changes to your infrastructure state file, which could lead to
 corruption or inconsistent state.
 
-![MY Image](images/image2.png)
+<div align="center">
+<img src="images/image2.png"  width="75%">
+</div>
 
 - Before performing any write operation, Terraform attempts to acquire a
   "lock" on the state file.
@@ -20,18 +24,24 @@ corruption or inconsistent state.
 - Once the operation is complete , Terraform releases the lock, allowing other
   processes to acquire it.
 
-
-![MY Image](images/image3.png)
+<div align="center">
+<img src="images/image3.png"  width="75%">
+</div>![MY Image](images/image3.png)
 
 ## State Locking with Local Backend
 
 If using local state (local backend), Terraform uses a .lock file in the working
 directory for locking.
 
-![MY Image](images/image4.png)
+<div align="center">
+<img src="images/image4.png"  width="75%">
+</div>
 
 ## What Happens if state file is Locked?
 
 When a state lock is held, any attempt by another process to operate will fail
 with an error.
 
+<div align="center">
+<img src="images/image5.png"  width="75%">
+</div>

@@ -34,4 +34,10 @@ configuration files for the resources you want to import.
 *Terraform 1.5* introduces automatic code generation for imported resources.
 
 This dramatically reduces the amount of time you need to spend writing code to
-match the imported SThis feature is not available in the older version of Terraform.
+match the imported.
+
+This feature is not available in the older version of Terraform.
+
+## Documentation resource
+
+<https://developer.hashicorp.com/terraform/language/import>

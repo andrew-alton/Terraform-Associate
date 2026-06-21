@@ -72,3 +72,7 @@ provider.
 <div align="center">
 <img src="images/image5.png"  width="50%">
 </div>
+
+## Documentation Referenced in Video
+
+<https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/db_instance>

@@ -1,6 +1,7 @@
 # HashiCorp Cloud Platform - Terraform
 
 Till now, we have been managing Terraform through CLI
+
 Although this approach is decent, we should also be aware that there is a GUI
 based offering that is available.
 
@@ -15,6 +16,4 @@ policy controls and others.
 HCP Terraform is not entirely free. Depending on the usage and features
 needed, there are multiple pricing plans that are available.
 
-![My Image](images/image3.png)   
-
-
+![My Image](images/image3.png)

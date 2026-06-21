@@ -41,6 +41,8 @@ from.
 <img src="images/image3.png"  width="50%">
 </div>
 
+</br>
+
 | Component             | Local Terraform                                              | HCP Terraform                                                                 |
 |----------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------|
 | Terraform configuration | On disk                                                   | In linked version control repository, or periodically uploaded via API/CLI   |

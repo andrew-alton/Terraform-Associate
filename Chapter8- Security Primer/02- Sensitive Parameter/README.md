@@ -13,7 +13,7 @@ We should design our Terraform code in such way that no sensitive information
 is available and shown out of the box in CLI Output, Logs, etc.
 
 <div align="center">
-<img src="images/image.png"  width="50%">
+<img src="images/image.png"  width="30%">
 </div>
 
 # Basics of Sensitive Parameter

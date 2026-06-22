@@ -1,10 +1,18 @@
-# Sentinel
+# Overview of Sentinel
 
 Sentinel is a policy-as-code framework integrated with the HashiCorp Enterprise products.
+
 It enables fine-grained, logic-based policy decisions, and can be extended to use information
 from external sources.
+
 Note: Sentinel policies are paid feature
 
-![My Image](images/image2.png)
+<div align="center">
+<img src="images/image1.png"  width="50%">
+</div>
 
-![My Image](images/image2.png)
+## High Level Structure
+
+<div align="center">
+<img src="images/image2.png"  width="50%">
+</div>

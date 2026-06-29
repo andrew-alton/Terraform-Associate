@@ -4,7 +4,7 @@ We had created a very simple module that allows developers to launch an EC2
 instance when calling the module.
 
 <div align="center">
-<img src="images/image1.png" alt="IAM Policies" width="75%">
+<img src="images/image1.png"  width="75%">
 </div>
 
 ## Need to Analyze Shortcomings
@@ -15,7 +15,7 @@ In today’s video, we will be discussing about some of the important
 shortcomings with the code.
 
 <div align="center">
-<img src="images/image2.png" alt="IAM Policies" width="75%">
+<img src="images/image2.png"  width="75%">
 </div>
 
 ## Challenge 1 - Hardcoded Values
@@ -25,7 +25,7 @@ If developer is calling the module, he will have to stick with same values.
 Developer will not be able to override the hardcoded values of the module.
 
 <div align="center">
-<img src="images/image3.png" alt="IAM Policies" width="75%">
+<img src="images/image3.png" width="75%">
 </div>
 
 ## Challenge 2 - Provider Improvements
@@ -36,7 +36,7 @@ A required_provider block with version constraints for module to work is
 important.
 
 <div align="center">
-<img src="images/image4.png" alt="IAM Policies" width="75%">
+<img src="images/image4.png"  width="75%">
 </div>
 
 Documentation Referenced:
@@ -50,11 +50,15 @@ Documentation Referenced:
 Root Module resides in the main working directory of your Terraform
 configuration. This is the entry point for your infrastructure definition.
 
-![MY Image](images/image9.png)
+<div align="center">
+<img src="images/image5.png"  width="75%">
+</div>
 
 ## Child Module
 
 A module that has been called by another module is often referred to as a child
 module.
 
-![MY Image](images/image10.png)
+<div align="center">
+<img src="images/image6.png"  width="75%">
+</div>

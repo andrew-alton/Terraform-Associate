@@ -45,20 +45,3 @@ Documentation Referenced:
 
 <https://registry.terraform.io/providers/hashicorp/aws/latest/docs>
 
-## Root Module
-
-Root Module resides in the main working directory of your Terraform
-configuration. This is the entry point for your infrastructure definition.
-
-<div align="center">
-<img src="images/image5.png"  width="75%">
-</div>
-
-## Child Module
-
-A module that has been called by another module is often referred to as a child
-module.
-
-<div align="center">
-<img src="images/image6.png"  width="75%">
-</div>

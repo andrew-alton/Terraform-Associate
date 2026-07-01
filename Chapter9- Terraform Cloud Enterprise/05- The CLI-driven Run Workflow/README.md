@@ -21,25 +21,7 @@ be initiated from local workstation.
 <img src="images/image2.png"  width="50%">
 </div>
 
-# Step 1 - Setup Cloud Integration
 
-You have to add code block within your .tf file to setup cloud integration.
-This code will contain details about your HCP organization and workspace name.
-
-![My Image](images/image3.png)
-
-# Step 2 - Terraform Login
-
-Once your cloud integration code block has been added, next step is to run the
-*terraform login* command.
-
-![My Image](images/image4.png)
-
-# Step 3 - Initialize
-
-Run the terraform init command to initialize
-
-![My Image](images/image5.png)
 
 # Step 4 - Run the Plan / Apply Operations
 

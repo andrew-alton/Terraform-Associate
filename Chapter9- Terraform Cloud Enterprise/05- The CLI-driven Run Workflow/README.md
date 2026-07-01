@@ -22,10 +22,3 @@ be initiated from local workstation.
 </div>
 
 
-
-# Step 4 - Run the Plan / Apply Operations
-
-Once initialized, the terraform “plan”, and “apply” commands when entered
-through CLI will run in HCP Terraform with output streamlined in terminal.
-
-![My Image](images/image6.png)
